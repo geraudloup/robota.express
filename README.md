@@ -2,6 +2,10 @@
 
 Repo for the site robota.express
 
+## Crush Link
+
+https://zoom.us/j/91513096602?pwd=Q3NQRW4vZXhRdGhFc3p0KzZnK3dWUT09
+
 ## Logo
 
 ### Color scheme
