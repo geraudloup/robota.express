@@ -2,6 +2,10 @@
 
 Repo for the site robota.express
 
+## Back-end v0
+
+https://github.com/geraudloup/fastapi-postgres-aws-lambda
+
 ## Crush Link
 
 https://zoom.us/j/91513096602?pwd=Q3NQRW4vZXhRdGhFc3p0KzZnK3dWUT09
