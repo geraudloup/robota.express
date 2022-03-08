@@ -1,0 +1,14 @@
+{
+    "en": {
+      "translation": {
+        "Home": "Home",
+        "Jobs": "Jobs"
+      }
+    },
+    "fr": {
+      "translation": {
+        "Home": "Accueil",
+        "Jobs": "Emplois"
+      }
+    }
+  }
