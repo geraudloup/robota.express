@@ -1,31 +1,34 @@
-# robota.express
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Repo for the site robota.express
+## Getting Started
 
-## Back-end v0
+First, run the development server:
 
-https://github.com/geraudloup/fastapi-postgres-aws-lambda
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-## Crush Link
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-https://zoom.us/j/91513096602?pwd=Q3NQRW4vZXhRdGhFc3p0KzZnK3dWUT09
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-## Logo
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-### Color scheme
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-Official colors : #0066cc & #ffcc00 VS #0057b7 & #ffd700
+## Learn More
 
-*source: https://en.wikipedia.org/wiki/Flag_of_Ukraine#Design
+To learn more about Next.js, take a look at the following resources:
 
-Final Choice : #1642BF & #FCCA0C
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-### Modus Operandi
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-![image](https://user-images.githubusercontent.com/47665233/156931313-5e1c6c76-c985-4251-9380-70a45b68b858.png)
-![image](https://user-images.githubusercontent.com/47665233/156931353-e8b49276-7de5-48f1-8472-8a52165a03e0.png)
-![image](https://user-images.githubusercontent.com/47665233/156931338-e55c455c-440f-402a-ac06-6ad3bb226fb3.png)
+## Deploy on Vercel
 
-### Result
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-![ROBOTA EXPRESS](https://user-images.githubusercontent.com/47665233/156931446-fe7d7e0f-f0cd-438b-abc9-03d30f85f8a3.svg)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
