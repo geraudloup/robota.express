@@ -7,15 +7,20 @@ export default function Navbar() {
 
   return (
     <nav>
-      <div className="-mb-px flex justify-center">
+      <div>
         <Link href="/">
-          <a className="no-underline border-b-2 uppercase tracking-wide font-bold text-xs py-3 mr-8">
+          <a>
             {t("Home")}
           </a>
         </Link>
         <Link href="/jobs">
-          <a className="no-underline border-b-2 uppercase tracking-wide font-bold text-xs py-3 mr-8">
+          <a>
             {t("Jobs")}
+          </a>
+        </Link>
+        <Link href="/about">
+          <a>
+            {t("About")}
           </a>
         </Link>
       </div>
