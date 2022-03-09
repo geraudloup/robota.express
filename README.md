@@ -1,8 +1,20 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Installation
+
+Install Yarn (you can install nodejs first if you want)
+That's what I did on Windows
+Then run :
+
+```bash
+yarn install
+```
+
+If you encounter troubles, typically `There appears to be trouble with your network connection. Retrying...`, then get rid of `"@mui/icons-material": "^5.5.0",` in package.json, run `yarn install` and `yarn add @mui/icons-material`
+
 ## Getting Started
 
-First, run the development server:
+First, run the development serve
 
 ```bash
 npm run dev
