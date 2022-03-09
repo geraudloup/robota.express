@@ -144,7 +144,7 @@ export default function ButtonBases() {
                                         >
                                             {'qui le plus tôt retrouve une activité productive, le plus tôt peut rebondir et aider ses compatriotes. '}
                                         </Typography>
-                                        En 2019, les ukrainiens sont employés à: <a href="https://donnees.banquemondiale.org/indicator/SL.EMP.WORK.FE.ZS?locations=UA" target="_blank">88% pour les femmes</a> et <a href="https://donnees.banquemondiale.org/indicator/SL.EMP.WORK.MA.ZS?locations=UA" target="_blank">83% pour les hommes</a>!
+                                        En 2019, les ukrainiens sont employés à: <a href="https://donnees.banquemondiale.org/indicator/SL.EMP.WORK.FE.ZS?locations=UA" target="_blank" rel="noreferrer">88% pour les femmes</a> et <a href="https://donnees.banquemondiale.org/indicator/SL.EMP.WORK.MA.ZS?locations=UA" target="_blank" rel="noreferrer">83% pour les hommes</a>!
                                     </React.Fragment>
                                 }
                             />
