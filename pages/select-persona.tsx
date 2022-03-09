@@ -103,7 +103,7 @@ export default function ButtonBases() {
     return (
         <Stack>
             <Box sx={{ ml: 2 }}>
-                <Typography component="h2" variant="h4" gutterBottom>NOUS faisons l'intermédiaire entre</Typography>
+                <Typography component="h2" variant="h4" gutterBottom>{"NOUS faisons l'intermédiaire entre"}</Typography>
                 <Paper elevation={6} sx={{ width: '100%', maxWidth: "max-content", mb: 2 }} >
                     <List sx={{ width: '100%', maxWidth: "max-content", bgcolor: 'background.paper' }}>
                         <ListItem alignItems="flex-start">
