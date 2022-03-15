@@ -45,6 +45,18 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+## API (backend)
+
+This React Client consumes the following Web API:
+| Methods | Urls | Actions
+|-|-|-|
+| POST   |	/api/refugees                 |	create new Refugee
+| GET    |	/api/refugees                 |	retrieve all Refugees
+| GET    |	/api/refugees/:id             |	retrieve a Refugee by :id
+| PUT    |	/api/refugees/:id             |	update a Refugee by :id
+| DELETE |	/api/refugees/:id             |	delete a Refugee by :id
+| GET    |	/api/refugees?email=toto8@fr] |	find all Refugees with email toto8@fr
+
 ## Logo
 
 ### Color scheme
